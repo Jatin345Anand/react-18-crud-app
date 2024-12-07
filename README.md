@@ -1,3 +1,4 @@
+# A React 19 application featuring integrated login with robust authentication and authorization, coupled with Node.js and Express for RESTful CRUD APIs. The app incorporates advanced React features such as custom hooks, reconciliation, memoization, Context API, useCallback, useMemo, the enhanced Virtual DOM, and efficient microtask management for optimal performance.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
